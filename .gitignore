@@ -1,0 +1,10 @@
+# Ignore the following folders:
+.spyproject/
+**/*.hdf
+**/*.tif
+**/*.vrt
+**/*.ipynb_checkpoints
+
+# Except this very file:
+!.gitignore
+
