@@ -1,0 +1,558 @@
+<VRTDataset rasterXSize="117948" rasterYSize="56932">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform>  7.8408102101446261e+01,  2.6949458523585647e-04,  0.0000000000000000e+00,  3.6485254927571191e+01,  0.0000000000000000e+00, -2.6949458523585647e-04</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000024832.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000049664.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000074496.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000099328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="0" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000024832.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000049664.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000074496.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000099328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="24832" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000049664-0000074496.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="7268" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="7268" />
+      <DstRect xOff="74496" yOff="49664" xSize="24832" ySize="7268" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="2">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000024832.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000049664.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000074496.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000099328.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="0" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000000000.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000024832.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000049664.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000074496.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000099328.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="24832" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000049664-0000074496.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="7268" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="7268" />
+      <DstRect xOff="74496" yOff="49664" xSize="24832" ySize="7268" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="3">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000024832.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000049664.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000074496.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000099328.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="0" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000000000.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000024832.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000049664.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000074496.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000099328.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="24832" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000049664-0000074496.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="7268" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="7268" />
+      <DstRect xOff="74496" yOff="49664" xSize="24832" ySize="7268" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="4">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000024832.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000049664.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000074496.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000099328.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="0" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000000000.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000024832.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000049664.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000074496.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000099328.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="24832" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000049664-0000074496.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="7268" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="7268" />
+      <DstRect xOff="74496" yOff="49664" xSize="24832" ySize="7268" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="5">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000024832.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000049664.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000074496.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000099328.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="0" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000000000.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000024832.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000049664.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000074496.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000099328.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="24832" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000049664-0000074496.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="7268" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="7268" />
+      <DstRect xOff="74496" yOff="49664" xSize="24832" ySize="7268" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="6">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000024832.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000049664.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000074496.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000099328.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="0" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000000000.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000024832.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000049664.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000074496.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000099328.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="24832" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000049664-0000074496.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="7268" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="7268" />
+      <DstRect xOff="74496" yOff="49664" xSize="24832" ySize="7268" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="7">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000024832.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000049664.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000074496.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="0" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000000000-0000099328.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="0" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000000000.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="0" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000024832.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="24832" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000049664.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="49664" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000074496.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="24832" />
+      <DstRect xOff="74496" yOff="24832" xSize="24832" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000024832-0000099328.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="18620" RasterYSize="24832" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="18620" ySize="24832" />
+      <DstRect xOff="99328" yOff="24832" xSize="18620" ySize="24832" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xinan_Landsat_cloud_free_2008_2010-0000049664-0000074496.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="24832" RasterYSize="7268" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="24832" ySize="7268" />
+      <DstRect xOff="74496" yOff="49664" xSize="24832" ySize="7268" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
