@@ -1,0 +1,242 @@
+<VRTDataset rasterXSize="107222" rasterYSize="69576">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform>  9.7171393103907533e+01,  2.6949458523585647e-04,  0.0000000000000000e+00,  5.3332978418175998e+01,  0.0000000000000000e+00, -2.6949458523585647e-04</GeoTransform>
+  <VRTRasterBand dataType="Int16" band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000080640.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26582" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26582" ySize="26880" />
+      <DstRect xOff="80640" yOff="26880" xSize="26582" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000000000-0000080640.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26582" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26582" ySize="26880" />
+      <DstRect xOff="80640" yOff="0" xSize="26582" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="0" yOff="26880" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000026880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="15816" />
+      <DstRect xOff="26880" yOff="53760" xSize="26880" ySize="15816" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000000000-0000053760.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="53760" yOff="0" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000080640.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26582" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26582" ySize="15816" />
+      <DstRect xOff="80640" yOff="53760" xSize="26582" ySize="15816" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000000000-0000026880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="26880" yOff="0" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000053760.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="53760" yOff="26880" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000026880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="26880" yOff="26880" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="15816" />
+      <DstRect xOff="0" yOff="53760" xSize="26880" ySize="15816" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000053760.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="15816" />
+      <DstRect xOff="53760" yOff="53760" xSize="26880" ySize="15816" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="2">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000080640.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26582" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26582" ySize="26880" />
+      <DstRect xOff="80640" yOff="26880" xSize="26582" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000000000-0000080640.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26582" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26582" ySize="26880" />
+      <DstRect xOff="80640" yOff="0" xSize="26582" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000000000.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="0" yOff="26880" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000026880.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="15816" />
+      <DstRect xOff="26880" yOff="53760" xSize="26880" ySize="15816" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000000000-0000053760.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="53760" yOff="0" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000080640.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26582" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26582" ySize="15816" />
+      <DstRect xOff="80640" yOff="53760" xSize="26582" ySize="15816" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000000000-0000026880.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="26880" yOff="0" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000053760.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="53760" yOff="26880" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000026880.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="26880" yOff="26880" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000000000.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="15816" />
+      <DstRect xOff="0" yOff="53760" xSize="26880" ySize="15816" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000053760.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="15816" />
+      <DstRect xOff="53760" yOff="53760" xSize="26880" ySize="15816" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="3">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000080640.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26582" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26582" ySize="26880" />
+      <DstRect xOff="80640" yOff="26880" xSize="26582" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000000000-0000080640.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26582" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26582" ySize="26880" />
+      <DstRect xOff="80640" yOff="0" xSize="26582" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000000000.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="0" yOff="26880" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000026880.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="15816" />
+      <DstRect xOff="26880" yOff="53760" xSize="26880" ySize="15816" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000000000-0000053760.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="53760" yOff="0" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000080640.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26582" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26582" ySize="15816" />
+      <DstRect xOff="80640" yOff="53760" xSize="26582" ySize="15816" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000000000-0000026880.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="26880" yOff="0" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000053760.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="53760" yOff="26880" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000026880-0000026880.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="26880" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="26880" />
+      <DstRect xOff="26880" yOff="26880" xSize="26880" ySize="26880" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000000000.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="15816" />
+      <DstRect xOff="0" yOff="53760" xSize="26880" ySize="15816" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">N:\LUF-Modelling\LUTO2_JZ\Built_map\GEE_tif_l\huabei_NDVI_NDBI_EVI_2017_2019-0000053760-0000053760.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="26880" RasterYSize="15816" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="26880" ySize="15816" />
+      <DstRect xOff="53760" yOff="53760" xSize="26880" ySize="15816" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>

@@ -1,0 +1,1094 @@
+<VRTDataset rasterXSize="140294" rasterYSize="65449">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform>  7.3432962563407116e+01,  2.6949458523585653e-04,  0.0000000000000000e+00,  4.9177910903009561e+01,  0.0000000000000000e+00, -2.6949458523585653e-04</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000022016.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000044032.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000066048.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="0" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000022016.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000044032.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000066048.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000088064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="88064" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000110080.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="110080" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000132096.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="22016" />
+      <DstRect xOff="132096" yOff="22016" xSize="8198" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="0" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000022016.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="22016" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000044032.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="44032" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000066048.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="66048" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000088064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="88064" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000110080.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="110080" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000132096.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="21417" />
+      <DstRect xOff="132096" yOff="44032" xSize="8198" ySize="21417" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="2">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000022016.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000044032.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000066048.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000000000.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="0" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000022016.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000044032.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000066048.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000088064.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="88064" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000110080.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="110080" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000132096.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="22016" />
+      <DstRect xOff="132096" yOff="22016" xSize="8198" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000000000.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="0" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000022016.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="22016" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000044032.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="44032" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000066048.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="66048" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000088064.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="88064" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000110080.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="110080" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000132096.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="21417" />
+      <DstRect xOff="132096" yOff="44032" xSize="8198" ySize="21417" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="3">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000022016.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000044032.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000066048.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000000000.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="0" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000022016.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000044032.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000066048.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000088064.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="88064" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000110080.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="110080" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000132096.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="22016" />
+      <DstRect xOff="132096" yOff="22016" xSize="8198" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000000000.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="0" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000022016.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="22016" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000044032.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="44032" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000066048.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="66048" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000088064.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="88064" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000110080.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="110080" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000132096.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="21417" />
+      <DstRect xOff="132096" yOff="44032" xSize="8198" ySize="21417" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="4">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000022016.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000044032.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000066048.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000000000.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="0" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000022016.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000044032.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000066048.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000088064.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="88064" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000110080.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="110080" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000132096.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="22016" />
+      <DstRect xOff="132096" yOff="22016" xSize="8198" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000000000.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="0" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000022016.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="22016" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000044032.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="44032" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000066048.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="66048" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000088064.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="88064" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000110080.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="110080" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000132096.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="21417" />
+      <DstRect xOff="132096" yOff="44032" xSize="8198" ySize="21417" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="5">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000022016.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000044032.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000066048.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000000000.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="0" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000022016.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000044032.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000066048.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000088064.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="88064" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000110080.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="110080" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000132096.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="22016" />
+      <DstRect xOff="132096" yOff="22016" xSize="8198" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000000000.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="0" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000022016.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="22016" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000044032.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="44032" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000066048.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="66048" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000088064.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="88064" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000110080.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="110080" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000132096.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="21417" />
+      <DstRect xOff="132096" yOff="44032" xSize="8198" ySize="21417" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="6">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000022016.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000044032.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000066048.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000000000.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="0" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000022016.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000044032.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000066048.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000088064.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="88064" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000110080.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="110080" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000132096.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="22016" />
+      <DstRect xOff="132096" yOff="22016" xSize="8198" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000000000.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="0" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000022016.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="22016" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000044032.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="44032" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000066048.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="66048" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000088064.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="88064" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000110080.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="110080" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000132096.tif</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="21417" />
+      <DstRect xOff="132096" yOff="44032" xSize="8198" ySize="21417" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="7">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000022016.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000044032.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000066048.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000000000.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="0" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000022016.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000044032.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000066048.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000088064.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="88064" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000110080.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="110080" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000132096.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="22016" />
+      <DstRect xOff="132096" yOff="22016" xSize="8198" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000000000.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="0" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000022016.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="22016" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000044032.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="44032" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000066048.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="66048" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000088064.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="88064" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000110080.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="110080" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000132096.tif</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="21417" />
+      <DstRect xOff="132096" yOff="44032" xSize="8198" ySize="21417" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="8">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000022016.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000044032.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000066048.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000000000.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="0" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000022016.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000044032.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000066048.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000088064.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="88064" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000110080.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="110080" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000132096.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="22016" />
+      <DstRect xOff="132096" yOff="22016" xSize="8198" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000000000.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="0" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000022016.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="22016" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000044032.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="44032" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000066048.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="66048" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000088064.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="88064" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000110080.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="110080" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000132096.tif</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="21417" />
+      <DstRect xOff="132096" yOff="44032" xSize="8198" ySize="21417" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="9">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000022016.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000044032.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000000000-0000066048.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="0" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000000000.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="0" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000022016.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="22016" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000044032.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="44032" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000066048.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="66048" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000088064.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="88064" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000110080.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="22016" />
+      <DstRect xOff="110080" yOff="22016" xSize="22016" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000022016-0000132096.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="22016" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="22016" />
+      <DstRect xOff="132096" yOff="22016" xSize="8198" ySize="22016" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000000000.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="0" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000022016.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="22016" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000044032.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="44032" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000066048.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="66048" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000088064.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="88064" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000110080.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="22016" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="22016" ySize="21417" />
+      <DstRect xOff="110080" yOff="44032" xSize="22016" ySize="21417" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_Landsat_cloud_free_2011_2013-0000044032-0000132096.tif</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="8198" RasterYSize="21417" DataType="Byte" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="8198" ySize="21417" />
+      <DstRect xOff="132096" yOff="44032" xSize="8198" ySize="21417" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>

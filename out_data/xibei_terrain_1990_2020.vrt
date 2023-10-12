@@ -1,0 +1,149 @@
+<VRTDataset rasterXSize="140294" rasterYSize="65449">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform>  7.3432962563407116e+01,  2.6949458523585653e-04,  0.0000000000000000e+00,  4.9177910903009561e+01,  0.0000000000000000e+00, -2.6949458523585653e-04</GeoTransform>
+  <VRTRasterBand dataType="Int16" band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32768" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32768" />
+      <DstRect xOff="0" yOff="0" xSize="32768" ySize="32768" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000000000-0000032768.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32768" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32768" />
+      <DstRect xOff="32768" yOff="0" xSize="32768" ySize="32768" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000000000-0000065536.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32768" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32768" />
+      <DstRect xOff="65536" yOff="0" xSize="32768" ySize="32768" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000000000-0000098304.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32768" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32768" />
+      <DstRect xOff="98304" yOff="0" xSize="32768" ySize="32768" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000000000-0000131072.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9222" RasterYSize="32768" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="9222" ySize="32768" />
+      <DstRect xOff="131072" yOff="0" xSize="9222" ySize="32768" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000032768-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32681" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32681" />
+      <DstRect xOff="0" yOff="32768" xSize="32768" ySize="32681" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000032768-0000032768.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32681" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32681" />
+      <DstRect xOff="32768" yOff="32768" xSize="32768" ySize="32681" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000032768-0000065536.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32681" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32681" />
+      <DstRect xOff="65536" yOff="32768" xSize="32768" ySize="32681" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000032768-0000098304.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32681" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32681" />
+      <DstRect xOff="98304" yOff="32768" xSize="32768" ySize="32681" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000032768-0000131072.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9222" RasterYSize="32681" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="9222" ySize="32681" />
+      <DstRect xOff="131072" yOff="32768" xSize="9222" ySize="32681" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="2">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32768" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32768" />
+      <DstRect xOff="0" yOff="0" xSize="32768" ySize="32768" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000000000-0000032768.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32768" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32768" />
+      <DstRect xOff="32768" yOff="0" xSize="32768" ySize="32768" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000000000-0000065536.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32768" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32768" />
+      <DstRect xOff="65536" yOff="0" xSize="32768" ySize="32768" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000000000-0000098304.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32768" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32768" />
+      <DstRect xOff="98304" yOff="0" xSize="32768" ySize="32768" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000000000-0000131072.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="9222" RasterYSize="32768" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="9222" ySize="32768" />
+      <DstRect xOff="131072" yOff="0" xSize="9222" ySize="32768" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000032768-0000000000.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32681" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32681" />
+      <DstRect xOff="0" yOff="32768" xSize="32768" ySize="32681" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000032768-0000032768.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32681" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32681" />
+      <DstRect xOff="32768" yOff="32768" xSize="32768" ySize="32681" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000032768-0000065536.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32681" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32681" />
+      <DstRect xOff="65536" yOff="32768" xSize="32768" ySize="32681" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000032768-0000098304.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="32768" RasterYSize="32681" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="32768" ySize="32681" />
+      <DstRect xOff="98304" yOff="32768" xSize="32768" ySize="32681" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\GEE_tif\xibei_terrain_1990_2020-0000032768-0000131072.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="9222" RasterYSize="32681" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="9222" ySize="32681" />
+      <DstRect xOff="131072" yOff="32768" xSize="9222" ySize="32681" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
